@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Gubi</string>
+    <string name="FBUrl">https://gubi.firebaseio.com/</string>
+</resources>
